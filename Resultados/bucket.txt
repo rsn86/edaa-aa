@@ -1,0 +1,160 @@
+Aleatórios/a1000000.txt
+201364861 619.735000
+Aleatórios/a100000.txt
+12106773 38.976000
+Aleatórios/a10000.txt
+249321 1.064000
+Aleatórios/a1000.txt
+7798 0.077000
+Aleatórios/a100.txt
+246 0.007000
+Aleatórios/a1250000.txt
+3823157442 11642.123000
+Aleatórios/a1500000.txt
+533878239 1635.687000
+Aleatórios/a15000.txt
+460923 1.830000
+Aleatórios/a2000000.txt
+19622645914 59732.113000
+Aleatórios/a200000.txt
+22084536 73.495000
+Aleatórios/a2000.txt
+21731 0.168000
+Aleatórios/a200.txt
+647 0.015000
+Aleatórios/a30000.txt
+1383271 5.024000
+Aleatórios/a500000.txt
+80102109 253.398000
+Aleatórios/a50000.txt
+2807724 10.168000
+Aleatórios/a5000.txt
+88096 0.465000
+Aleatórios/a500.txt
+2756 0.034000
+Aleatórios/a750000.txt
+2226355495 6784.592000
+Aleatórios/a75000.txt
+5097612 17.688000
+Aleatórios/a7500.txt
+159921 0.744000
+Ordenados/o1000000.txt
+0 19.188000
+Ordenados/o100000.txt
+0 2.818000
+Ordenados/o10000.txt
+0 0.290000
+Ordenados/o1000.txt
+0 0.072000
+Ordenados/o100.txt
+0 0.007000
+Ordenados/o1250000.txt
+0 23.218000
+Ordenados/o1500000.txt
+0 27.381000
+Ordenados/o15000.txt
+0 0.399000
+Ordenados/o2000000.txt
+0 35.682000
+Ordenados/o200000.txt
+0 4.737000
+Ordenados/o2000.txt
+0 0.090000
+Ordenados/o200.txt
+0 0.009000
+Ordenados/o30000.txt
+0 0.680000
+Ordenados/o500000.txt
+0 10.511000
+Ordenados/o50000.txt
+0 2.256000
+Ordenados/o5000.txt
+0 0.180000
+Ordenados/o500.txt
+0 0.021000
+Ordenados/o750000.txt
+0 14.435000
+Ordenados/o75000.txt
+0 2.188000
+Ordenados/o7500.txt
+0 0.235000
+Decrescentes/d1000000.txt
+402304509 1227.066000
+Decrescentes/d100000.txt
+24938422 77.447000
+Decrescentes/d10000.txt
+492969 1.727000
+Decrescentes/d1000.txt
+15583 0.133000
+Decrescentes/d100.txt
+497 0.011000
+Decrescentes/d1250000.txt
+7785568864 23717.940000
+Decrescentes/d1500000.txt
+1072864410 3279.479000
+Decrescentes/d15000.txt
+914571 3.243000
+Decrescentes/d2000000.txt
+38981312866 118847.907000
+Decrescentes/d200000.txt
+44349770 138.027000
+Decrescentes/d2000.txt
+44198 0.229000
+Decrescentes/d200.txt
+1359 0.015000
+Decrescentes/d30000.txt
+2744413 8.990000
+Decrescentes/d500000.txt
+160418079 492.065000
+Decrescentes/d50000.txt
+5577326 18.495000
+Decrescentes/d5000.txt
+174716 0.794000
+Decrescentes/d500.txt
+5605 0.039000
+Decrescentes/d750000.txt
+4476270630 13646.954000
+Decrescentes/d75000.txt
+10134960 32.445000
+Decrescentes/d7500.txt
+319833 1.188000
+ParcialmenteOrdenados/po1000000.txt
+20249 19.537000
+ParcialmenteOrdenados/po100000.txt
+7325 2.766000
+ParcialmenteOrdenados/po10000.txt
+2492 0.296000
+ParcialmenteOrdenados/po1000.txt
+793 0.050000
+ParcialmenteOrdenados/po100.txt
+161 0.007000
+ParcialmenteOrdenados/po1250000.txt
+17760 23.630000
+ParcialmenteOrdenados/po1500000.txt
+21637 28.576000
+ParcialmenteOrdenados/po15000.txt
+3152 0.389000
+ParcialmenteOrdenados/po2000000.txt
+24405 36.688000
+ParcialmenteOrdenados/po200000.txt
+9667 4.782000
+ParcialmenteOrdenados/po2000.txt
+1067 0.092000
+ParcialmenteOrdenados/po200.txt
+297 0.011000
+ParcialmenteOrdenados/po30000.txt
+4233 0.697000
+ParcialmenteOrdenados/po500000.txt
+15253 10.736000
+ParcialmenteOrdenados/po50000.txt
+4831 1.837000
+ParcialmenteOrdenados/po5000.txt
+1695 0.162000
+ParcialmenteOrdenados/po500.txt
+429 0.024000
+ParcialmenteOrdenados/po750000.txt
+14852 14.848000
+ParcialmenteOrdenados/po75000.txt
+5973 2.260000
+ParcialmenteOrdenados/po7500.txt
+1911 0.243000
